@@ -1,7 +1,4 @@
 
-    <aside>
-      <p>&nbsp;</p>
-    </aside>
   <article class="content">
     <h1>Instructions</h1>
     <section>
@@ -29,6 +26,5 @@
       Address Content
     </address>
   </footer>
-  <!-- end .container --></div>
 </body>
 </html>
