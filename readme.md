@@ -1,2 +1,4 @@
+<h1> Hello world </h1>
 This is the hello world place for all my work on diff technologies. every branch is a folder for a diff technology
-for recetnt updates please follow me https://twitter.com/1sudo
+<br>
+For recetnt updates please follow me at https://twitter.com/1sudo
